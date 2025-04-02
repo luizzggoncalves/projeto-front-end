@@ -1,0 +1,1 @@
+O Git é um sistema de controle de versão distribuído utilizado para gerenciar mudanças no código-fonte de projetos de software. Ele permite que múltiplos desenvolvedores trabalhem de forma colaborativa, mantendo um histórico de todas as alterações. Cada desenvolvedor tem uma cópia local do repositório, o que possibilita trabalhar offline. 
